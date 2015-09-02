@@ -12,7 +12,7 @@ Unlike other location based systems or applications, the solution we proposed is
 -	Abnormal route alerting when the elder or children goes the different route as usual.
 -	Others
 
-Application samples of Habitat prediction:
+####Application samples of Habitat prediction:
 -	Location based adverting to the residents of the region or the visitors who come the region more often.
 -	Pre-alerting to the residents of the region or the visitors who come the region more often before some big event will be happened in the region.
 -	National security
