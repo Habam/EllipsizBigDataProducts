@@ -10,4 +10,4 @@ We developed the solution based on ***Lucene*** technology and the system can be
 1. Imported Data Traffic Monitoring View:
 ![](imgs/a.png)
 
-2. 
+2. Data Query View
