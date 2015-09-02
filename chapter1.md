@@ -7,11 +7,11 @@ Therefore, the tradition database approach is not suitable but a fast full text 
 We developed the solution based on ***Lucene*** technology and the system can be expanded with network traffic growth or longer data storage time required.
 
 ###Demo Views
-1. Imported Data Traffic Monitoring View:
+- Imported Data Traffic Monitoring View:
 ![](imgs/a.png)
 
-2. Data Query View
+- Data Query View
 ![](imgs/b.png)
 
-3. Data Query Result View
+- Data Query Result View
 ![](imgs/c.png)
