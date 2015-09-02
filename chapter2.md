@@ -23,6 +23,7 @@ We developed the solution based on the big data technologies including ***Hadoop
 
 ###Demo Views
 1. Location Prediction Concept:
+2. 
 ![](imgs/d.png)
 
 2. Next Location Prediction Result:
