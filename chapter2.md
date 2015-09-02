@@ -22,4 +22,4 @@ Unlike other location based systems or applications, the solution we proposed is
 We developed the solution based on the big data technologies including ***Hadoop***, ***Spark***, ***machine learning***, and so on.
 
 ###Demo Views
-Location Prediction Concept
+Location Prediction Concept:
