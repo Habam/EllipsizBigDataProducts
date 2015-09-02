@@ -1,2 +1,1 @@
-# EC BigData
-– Location prediction solution
+# EC BigData – Location prediction solution
