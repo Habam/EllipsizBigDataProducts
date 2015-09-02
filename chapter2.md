@@ -18,4 +18,4 @@ Application samples of Habitat prediction:
 -	National security
 -	Others
 
-We developed the solution based on the big data technologies including Spark, machine learning, and so on.
+We developed the solution based on the big data technologies including Hadoop, Spark, machine learning, and so on.
