@@ -8,4 +8,4 @@ As [Ellipsiz Communications](http://www.ellipsiz-comms.com/index.html) is the CD
 
 To respond customer’s requirement, Ellipsiz Communications has developed two solutions for CDR/XDR processing with modern big data technologies, 
 1. [**EC Blast**](chapter1.md)
-2. **EC BigData**
+2. [**EC BigData**](chapter2.md)
