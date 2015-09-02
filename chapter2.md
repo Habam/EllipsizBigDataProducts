@@ -23,4 +23,4 @@ We developed the solution based on the big data technologies including ***Hadoop
 
 ###Demo Views
 Location Prediction Concept:
-Next Location Prediction Result
+Next Location Prediction Result:
