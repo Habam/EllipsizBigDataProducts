@@ -8,7 +8,7 @@ We developed the solution based on ***Lucene*** technology and the system can be
 
 ###Demo Views
 1. Imported Data Traffic Monitoring View:
-![abc](imgs/a.png)
+![something](imgs/a.png)
 
 2. Data Query View
 
