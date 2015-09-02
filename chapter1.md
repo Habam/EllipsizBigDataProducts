@@ -8,4 +8,5 @@ We developed the solution based on ***Lucene*** technology and the system can be
 
 
 Imported Data Traffic Monitoring View:
+
 ![](imgs/a.png)
