@@ -1,1 +1,1 @@
-# EC Blast – fast CDR/XDR/Log search solution
+# **EC Blast** – fast CDR/XDR/Log search solution
