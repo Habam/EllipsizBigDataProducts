@@ -11,3 +11,4 @@ We developed the solution based on ***Lucene*** technology and the system can be
 ![](imgs/a.png)
 
 2. Data Query View
+3. Data Query Result View
