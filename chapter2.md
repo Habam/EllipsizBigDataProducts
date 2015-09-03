@@ -23,8 +23,8 @@ The location prediction can be extensively adopted in following domains:
 We developed the solution based on the big data technologies including ***Hadoop***, ***Spark***, ***machine learning***, and so on.
 
 ###Demo Views
-- Location Prediction Concept:
+- ####Location Prediction Concept:
 ![](imgs/d.png)
 
-- Next Location Prediction Result:
+- ####Next Location Prediction Result:
 ![](imgs/e.png)
