@@ -15,8 +15,7 @@ We developed the solution based on ***Lucene*** technology and the system can be
 
 ![Imported Data Traffic Monitoring View](imgs/a.png)
 
-- Data Query View
-![](imgs/b.png)
+![Data Query View](imgs/b.png)
 
 - Data Query Result View
 ![](imgs/c.png)
