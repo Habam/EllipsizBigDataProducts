@@ -6,7 +6,8 @@
     "plugins": [
         "autocover", 
                 "disqus", 
-                "image-captions"],
+                "image-captions"
+                ],
     "pluginsConfig": {
         "autocover": {
             "title": "Ellipsiz Big Data Product",
