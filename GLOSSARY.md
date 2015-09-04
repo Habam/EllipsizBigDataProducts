@@ -1,2 +1,2 @@
-# CDR
+#
 Call detail record
