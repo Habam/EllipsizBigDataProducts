@@ -22,7 +22,7 @@ To respond customer’s requirement, Ellipsiz Communications has developed two s
     - Data Query Result View
     ![](imgs/c.png)
 
-# ***EC BigData*** – Location prediction solution
+- # ***EC BigData*** – Location prediction solution
 
 ###Location
 Location is the key information in telecom CDR/XDR and more intelligence and applications can be derived from subscriber’s mobility. 
