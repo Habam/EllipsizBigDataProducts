@@ -44,8 +44,7 @@ The location prediction can be extensively adopted in following domains:
 
 We developed the solution based on the big data technologies including ***Hadoop***, ***Spark***, ***machine learning***, and so on.
     
-- Location Prediction Concept:
-![hello world](imgs/d.png)
+![Location Prediction Concept](imgs/d.png)
 
 - Next Location Prediction Result:
 ![hello fucker](imgs/e.png)
