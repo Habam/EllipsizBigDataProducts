@@ -42,6 +42,7 @@ Location is the key information in telecom CDR/XDR and more intelligence and app
         -	National security
         -	Others
         
+        
     We developed the solution based on the big data technologies including ***Hadoop***, ***Spark***, ***machine learning***, and so on.
 
     - ####Location Prediction Concept:
