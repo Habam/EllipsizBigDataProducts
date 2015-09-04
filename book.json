@@ -20,6 +20,9 @@
             "background": {
                 "color": "#6EABF7"
             }
+        },
+        "disqus": {
+            "shortName": "XXXXXXX"
         }
     }
 }
