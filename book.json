@@ -10,7 +10,7 @@
                 "title": "My Book",
                 "author": "Author",
                 "font": {
-                    "size": null,
+                    "size": 21,
                     "family": "Impact",
                     "color": "#FFF"
                 },
