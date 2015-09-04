@@ -25,7 +25,7 @@ To respond customer’s requirement, Ellipsiz Communications has developed two s
 - #### ***EC BigData*** – Location prediction solution
 Location is the key information in telecom CDR/XDR and more intelligence and applications can be derived from subscriber’s mobility. 
 
-Unlike other location based systems or applications, the solution we proposed is to predict the subscriber’s next location in near future and the regions he stays or visits more often (so-called **habitat**). 
+    Unlike other location based systems or applications, the solution we proposed is to predict the subscriber’s next location in near future and the regions he stays or visits more often (so-called **habitat**). 
 
 The location prediction can be extensively adopted in following domains:
 - ####Application samples of Next location prediction:
