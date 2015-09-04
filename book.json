@@ -1,5 +1,6 @@
 {
     "variables": {
-        "host": "mybook.com"
+        "host": "mybook.com",
+        "abc": "hello"
     }
 }
