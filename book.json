@@ -6,8 +6,7 @@
     "plugins": ["autocover"],
     "pluginsConfig": {
         "autocover": {
-            "title": "Ellipsiz 
-            Big Data Product",
+            "title": "Ellipsiz Big Data Product",
             "author": "Willis Fu",
             "font": {
                 "size": 14,
