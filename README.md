@@ -34,7 +34,6 @@ To respond customer’s requirement, Ellipsiz Communications has developed two s
         -	Location based advertising to attract the consumer before he arrives or change his original mind to the new destination.
         -	Abnormal route alerting when the elder or children goes the different route as usual.
         -	Others
-
     - ####Application samples of Habitat prediction:
         -	Location based adverting to the residents of the region or the visitors who come the region more often.
         -	Pre-alerting to the residents of the region or the visitors who come the region more often before some big event will be happened in the region.
