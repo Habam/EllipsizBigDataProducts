@@ -5,8 +5,8 @@
     },
     "plugins": [
         "autocover", 
-        "disqus", 
-        "image-captions"
+        "image-captions", 
+        "disqus"
     ],
     "pluginsConfig": {
         "autocover": {
