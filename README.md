@@ -6,7 +6,7 @@ As [Ellipsiz Communications](http://www.ellipsiz-comms.com/index.html) is the CD
 
 To respond customer’s requirement, Ellipsiz Communications has developed two solutions for CDR/XDR processing with modern big data technologies, 
 
-- # _**EC Blast**_ – fast CDR/XDR/Log search solution
+# _**EC Blast**_ – fast CDR/XDR/Log search solution
 
 Billions of CDR/XDR/Log records are generated from the telecom network every day, no one record can be discarded and all of them have to be stored for future use, such as **troubleshooting for network issue or subscriber’s complaint**, **billing verification**, **subscriber filtering for marketing event**, **authority audit**, and so on. 
 
