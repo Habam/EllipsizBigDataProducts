@@ -13,11 +13,11 @@ Therefore, the tradition database approach is not suitable but a fast full text 
 
 We developed the solution based on ***Lucene*** technology and the system can be expanded with network traffic growth or longer data storage time required.
 
-![Imported Data Traffic Monitoring View](imgs/a.png)
+![Imported data traffic monitoring view](imgs/a.png)
 
-![Data Query View](imgs/b.png)
+![Data query view](imgs/b.png)
 
-![Data Query Result View](imgs/c.png)
+![Data query result view](imgs/c.png)
 
 ## ***EC BigData*** – Location prediction solution
 Location is the key information in telecom CDR/XDR and more intelligence and applications can be derived from subscriber’s mobility. 
