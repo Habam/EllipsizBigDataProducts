@@ -3,7 +3,7 @@
         "host": "mybook.com",
         "abc": "hello"
     },
-    "plugins": ["autocover"],
+    "plugins": ["autocover", "disqus"],
     "pluginsConfig": {
         "autocover": {
             "title": "Ellipsiz Big Data Product",
