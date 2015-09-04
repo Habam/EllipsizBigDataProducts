@@ -6,21 +6,21 @@
     "plugins": ["autocover"],
     "pluginsConfig": {
         "autocover": {
-                "title": "My Book",
-                "author": "Author",
-                "font": {
-                    "size": 21,
-                    "family": "Impact",
-                    "color": "#FFF"
-                },
-                "size": {
-                    "w": 1800,
-                    "h": 2360
-                },
-                "background": {
-                    "color": "#09F"
-                }
+            "title": "My Book",
+            "author": "Author",
+            "font": {
+                "size": 21,
+                "family": "Impact",
+                "color": "#FFF"
+            },
+            "size": {
+                "w": 1800,
+                "h": 2360
+            },
+            "background": {
+                "color": "#09F"
             }
+        }
     }
     
 }
