@@ -44,8 +44,8 @@ Location is the key information in telecom CDR/XDR and more intelligence and app
     
     We developed the solution based on the big data technologies including ***Hadoop***, ***Spark***, ***machine learning***, and so on.
 
-- ####Location Prediction Concept:
-![](imgs/d.png)
-
-- ####Next Location Prediction Result:
-![](imgs/e.png)
+    - ####Location Prediction Concept:
+    ![](imgs/d.png)
+    
+    - ####Next Location Prediction Result:
+    ![](imgs/e.png)
