@@ -1,2 +1,1 @@
-# Ellipsiz
-Ellipsiz Communications
+# CDR
