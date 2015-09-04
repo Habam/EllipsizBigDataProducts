@@ -26,7 +26,7 @@ Unlike other location based systems or applications, the solution we proposed is
     
 The location prediction can be extensively adopted in following domains:
 
-- ####Application samples of Next location prediction:
+####Application samples of Next location prediction:
     -   Pre-alerting when subscriber is going to access the bad radio cell.
     -	Pre-arrangement of network resources when crowd is predicted somewhere
     -	Taxi driving suggestion when crowd is predicted somewhere.
