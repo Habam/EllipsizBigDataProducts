@@ -42,6 +42,7 @@ To respond customer’s requirement, Ellipsiz Communications has developed two s
         
 
     We developed the solution based on the big data technologies including ***Hadoop***, ***Spark***, ***machine learning***, and so on.
+    
     - ####Location Prediction Concept:
     ![](imgs/d.png)
     
