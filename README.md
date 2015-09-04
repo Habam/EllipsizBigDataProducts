@@ -39,7 +39,6 @@ To respond customer’s requirement, Ellipsiz Communications has developed two s
         -	Pre-alerting to the residents of the region or the visitors who come the region more often before some big event will be happened in the region.
         -	National security
         -	Others
-        
 
 We developed the solution based on the big data technologies including ***Hadoop***, ***Spark***, ***machine learning***, and so on.
     
