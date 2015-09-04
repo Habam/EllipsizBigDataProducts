@@ -3,7 +3,8 @@
         "host": "mybook.com",
         "abc": "hello"
     },
-    "plugins": ["autocover", 
+    "plugins": [
+        "autocover", 
                 "disqus", 
                 "image-captions"],
     "pluginsConfig": {
